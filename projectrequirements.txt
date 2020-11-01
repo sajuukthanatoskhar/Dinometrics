@@ -1,0 +1,15 @@
+1. Web app, needs to monitor D-P and other stagings
+
+2. Needs to show whats on market at a time
+
+3. Visibility doctrines , items thats is deemed strategic to TEST Alliance
+
+4. Show when inventory is low
+
+5. Track market velocity/volume
+
+6. Never couple pricing with Jita, but it is nice to have that value as a comparison.  Needs a note to tell people.  
+
+7  People can possibly set a threshold for the Jita price comparison.  
+
+8  Each staging has its own tab
